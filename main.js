@@ -5,7 +5,7 @@ const orangeMountains = "https://images.unsplash.com/photo-1444090542259-0af8fa9
 const orangeSuit = "https://images.unsplash.com/photo-1540331547168-8b63109225b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=419&q=80"
 const orangeFlawers = "https://unsplash.com/photos/nqSUnXINsp4"
 const orangeMegaphone = "https://unsplash.com/photos/QRKJwE6yfJo"
-const orangeStairs = "https://unsplash.com/photos/SKlwtMS_7hI"
+const orangeStairs = "https://unsplash.com/photos/SKlwtMS_7hI" /** */
 const orangeChair = "https://www.istockphoto.com/photo/modern-interior-with-orange-colored-leather-armchair-sconce-coffee-table-and-gray-gm1296444787-389859089"
 const orangeWoodWall = "https://unsplash.com/photos/_NEzKE6Zdp4"
 const orangeVan = "https://unsplash.com/photos/lFCtJ5YLsXk"
