@@ -21,7 +21,15 @@ section{
     background-color: antiquewhite;
     color: black;
     border-radius: 5px;
-    object-fit: cover;
+    
+
+}
+
+img {
+    object-fit:cover;
+    width:100%;
+    height:100%;
+
 }
 
 #pic_1 {
