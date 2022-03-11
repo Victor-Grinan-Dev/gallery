@@ -27,6 +27,7 @@ section{
 #pic_1 {
     grid-column: 1/3 ;
     grid-row: 1/3;
+    /*background-image: url("https://unsplash.com/photos/TAqKadWDdrU");*/
 }
 
 #pic_2{
